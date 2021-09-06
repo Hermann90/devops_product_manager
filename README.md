@@ -1,3 +1,13 @@
-# devops_product_manager
-Manage Product using Java Kotlin and performs devops
-# Manage Products using Java Kotlin Maven and Devops
+# Simple DevOps Project
+
+This Repository is a collection of Implementation documents. 
+
+### Purpose:
+By following this repository you can able to setup a DevOps CI/CD Pipeline using
+- git
+- Jenkins
+- Mavine
+- Ansible
+- Docker &
+- Kubernetes
+
